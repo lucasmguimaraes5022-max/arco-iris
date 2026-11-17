@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Espaço de acolhimento ilustrado</title>
+  <desc id="desc">Ilustração em tons pastel de uma sala acolhedora com arco-íris, poltrona, brinquedos e plantas.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFF1B8"/><stop offset=".55" stop-color="#F5D8E7"/><stop offset="1" stop-color="#DCEFEE"/></linearGradient>
+    <linearGradient id="rug" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E7DEF4"/><stop offset="1" stop-color="#DCEFEE"/></linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#wall)"/>
+  <circle cx="635" cy="160" r="68" fill="#FFF9E6" opacity=".9"/>
+  <path d="M0 760 Q210 690 410 760 T800 735 V1000 H0Z" fill="#F7EBDD"/>
+  <path d="M215 505a185 185 0 0 1 370 0v160H215Z" fill="#FFF9F0" opacity=".95"/>
+  <path d="M260 505a140 140 0 0 1 280 0v160H260Z" fill="#F5D8E7"/>
+  <path d="M304 505a96 96 0 0 1 192 0v160H304Z" fill="#DCEFEE"/>
+  <path d="M350 505a50 50 0 0 1 100 0v160H350Z" fill="#FBF0B6"/>
+  <ellipse cx="390" cy="850" rx="270" ry="75" fill="url(#rug)"/>
+  <rect x="125" y="610" width="255" height="175" rx="48" fill="#1E6E71"/>
+  <rect x="150" y="580" width="205" height="95" rx="38" fill="#3D9290"/>
+  <rect x="155" y="760" width="28" height="80" rx="10" fill="#A66F58"/>
+  <rect x="320" y="760" width="28" height="80" rx="10" fill="#A66F58"/>
+  <rect x="480" y="730" width="100" height="90" rx="12" fill="#E9A6BD"/>
+  <rect x="505" y="675" width="50" height="55" rx="8" fill="#D9B65B"/>
+  <rect x="590" y="790" width="100" height="26" rx="13" fill="#A66F58"/>
+  <path d="M635 790V560" stroke="#6F9B74" stroke-width="14" stroke-linecap="round"/>
+  <path d="M635 650c-95-5-105-85-35-93 34 33 41 62 35 93Zm0-45c7-94 83-110 96-44-25 38-60 51-96 44Zm0 103c-73-4-93-60-45-77 34 22 48 48 45 77Z" fill="#77A987"/>
+  <circle cx="145" cy="275" r="30" fill="#E9A6BD" opacity=".9"/>
+  <circle cx="670" cy="430" r="22" fill="#D9B65B" opacity=".85"/>
+  <path d="M80 450q45-55 90 0" fill="none" stroke="#1E6E71" stroke-width="9" stroke-linecap="round" opacity=".45"/>
+  <path d="M610 300q35-40 70 0" fill="none" stroke="#1E6E71" stroke-width="9" stroke-linecap="round" opacity=".45"/>
+</svg>
